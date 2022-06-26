@@ -4,7 +4,7 @@
 #include <string>
 
 
-int main() {
+int bojmain1427() {
 	std::ios_base::sync_with_stdio(0);
 	std::cin.tie(0); std::cout.tie(0);
 	// input °ª
@@ -16,7 +16,7 @@ int main() {
 	std::vector<char> v;
 	for (int i = 0; i < str.size(); i++) v.push_back(str[i]);
 	sort(v.begin(), v.end());
-	
+
 	//Ãâ·Â
 	for (int i = v.size() - 1; i >= 0; i--) std::cout << v[i];
 }
