@@ -16,11 +16,11 @@
     <Filter Include="소스 파일\week1.greedy">
       <UniqueIdentifier>{1e699bcc-7ad7-4ece-af92-1a3931bc93bf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\week2. dp, stl">
+      <UniqueIdentifier>{05ad70e4-cb91-428d-ac11-7fb60c3d7108}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="firstps.cpp">
-      <Filter>소스 파일\week1.greedy</Filter>
-    </ClCompile>
     <ClCompile Include="boj1427.cpp">
       <Filter>소스 파일\week1.greedy</Filter>
     </ClCompile>
@@ -31,7 +31,13 @@
       <Filter>소스 파일\week1.greedy</Filter>
     </ClCompile>
     <ClCompile Include="boj19941.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\week1.greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="firstps.cpp">
+      <Filter>소스 파일\week2. dp, stl</Filter>
+    </ClCompile>
+    <ClCompile Include="boj13305.cpp">
+      <Filter>소스 파일\week1.greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

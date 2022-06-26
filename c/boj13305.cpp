@@ -7,7 +7,7 @@ long long price[100001];
 long long N, sum;
 long long greedy;
 
-int main() {
+int bojmain13305() {
 	// 도시의 개수
 	std::cin >> N;
 	// 도시를 연결하는 도로의 길이

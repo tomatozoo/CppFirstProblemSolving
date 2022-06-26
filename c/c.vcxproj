@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="boj11399.cpp" />
     <ClCompile Include="boj11508.cpp" />
+    <ClCompile Include="boj13305.cpp" />
     <ClCompile Include="boj1427.cpp" />
     <ClCompile Include="boj19941.cpp" />
     <ClCompile Include="firstps.cpp" />
