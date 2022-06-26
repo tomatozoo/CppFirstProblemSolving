@@ -22,6 +22,15 @@
       <Filter>소스 파일\week1.greedy</Filter>
     </ClCompile>
     <ClCompile Include="boj1427.cpp">
+      <Filter>소스 파일\week1.greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11399.cpp">
+      <Filter>소스 파일\week1.greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="boj11508.cpp">
+      <Filter>소스 파일\week1.greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="boj19941.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

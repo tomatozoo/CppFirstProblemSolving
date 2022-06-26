@@ -19,4 +19,5 @@ int bojmain1427() {
 
 	//Ãâ·Â
 	for (int i = v.size() - 1; i >= 0; i--) std::cout << v[i];
+	return 0;
 }

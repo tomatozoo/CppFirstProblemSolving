@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main() {
+int bojmain19941() {
 	std::string arr;
 	int n, k, cnt = 0, sw;
 	std::cin >> n >> k;
